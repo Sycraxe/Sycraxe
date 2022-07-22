@@ -1,6 +1,6 @@
 # Hey 👋, I'm [Sycraxe](https://github.com/Sycraxe)
 I'm just a French student who makes projects for fun.
-I’m interested in utility development and game modding
+I’m interested in utility development and game modding.
 
 ## Some languages and tools I use
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
@@ -17,4 +17,4 @@ I’m interested in utility development and game modding
 You can contact me through Discord, my username is `Sycraxe#8950`.
 
 ## What I have been listening to lately
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=n42h6suqhvg66p9ft1xcil2ap&count=1&width=500)
+[![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=n42h6suqhvg66p9ft1xcil2ap&count=3&width=500)](https://open.spotify.com/user/n42h6suqhvg66p9ft1xcil2ap)
